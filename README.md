@@ -1,2 +1,2 @@
 # MiPrimerRepositorio
-exploración y arendizaje de como usar GitHub
+exploración y aprendizaje de como usar GitHub
